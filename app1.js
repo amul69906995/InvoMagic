@@ -19,6 +19,8 @@ const giveDetails=async(text)=>{
     - Customer Details
     - Products
     - Total Amount
+    - just give specified data text format and json format
+    
     `;;
     const result = await model.generateContent(prompt);
     console.log(result.response.text());

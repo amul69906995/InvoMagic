@@ -1,4 +1,5 @@
 # InvoiceInsight
+![bothformat](https://github.com/user-attachments/assets/f13035d8-d3d0-4546-927e-4a4fb5c8479a)
 
 **InvoMagic** is a powerful tool for extracting key details from invoice PDFs using advanced technologies. It combines the `pdf-parse` library for text extraction and Google’s `Gemini-1.5-Flash` model for intelligent data analysis.
 
@@ -26,6 +27,7 @@
    cd InvoMagic
    npm i
    node app1.js
-```
+
+
 
 
