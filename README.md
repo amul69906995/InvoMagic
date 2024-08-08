@@ -22,7 +22,10 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amul6990/InvoMagic
-.git
+   git clone https://github.com/amul6990/InvoMagic.git
+   cd InvoMagic
+   npm i
+   node app1.js
 ```
+
 
